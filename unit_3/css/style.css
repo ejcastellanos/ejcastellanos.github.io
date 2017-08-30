@@ -1,21 +1,31 @@
-body {
-	background: #00ff00;
+ body {
+ 	background: url(https://purplewoods.files.wordpress.com/2016/02/sara-zin-starving-artist-bannock-restaurant-sandwich.jpg?w=1200) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 h1 {
-	color: #000000;
+	color: #f4df42;
+	font-family: 'Baloo Bhaijaan', cursive;
+	font-size: 140px;
 }
 p {
-
+	color: #f4df42;
+	font-family: 'Roboto Slab', serif;
+	font-size: 50px;
 }
 ul {
-
+	color: #f4df42;
+	font-family: 'Roboto Slab', serif;
 }
 li {
-
+	color: #f4df42;
+	font-family: 'Roboto Slab', serif;
 }
 img {
 
 }
 #slogan {
-	font-style: italic;
+	font-family: 'Roboto Slab', serif;
 }
