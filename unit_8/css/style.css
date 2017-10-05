@@ -1,0 +1,116 @@
+ header {
+ 	background-color: #ffed74;
+ 	border: 1px black solid;
+ 	padding: 20px;
+ }
+ nav {
+ 	 background-color: #e8c66a;
+ 	border: 1px black solid;
+ 	padding: 20px;
+ }
+ article {
+ 	background-color: #e89c6c;
+ 	border: 1px black solid;
+ 	padding: 20px;
+}
+aside {
+	float: left;
+}
+#left {
+	background-color: #e582a2;
+	border: 1px black solid;
+	padding: 20px;
+	float: left;
+	width: 30%;
+}
+#right {
+	background-color: #e55b88;
+	border: 1px black solid;
+	padding: 20px;
+	float: right;
+	width: 62%;
+
+  }
+.clearfix:after {
+	visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+ footer {
+ 	background-color: #ff9575;
+ 	border: 1px black solid;
+ 	padding: 20px;
+ }
+ div / section {
+ 	background-color: #ffe2b8;
+ 	border: 1px black solid;
+ 	padding: 20px;
+ }
+ body {
+ 	background: url(https://ejcastellanos.github.io/unit_4/image/Sandwichito-01.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+h1 {
+	color: #f4df42;
+	font-family: 'Baloo Bhaijaan', cursive;
+	font-size: 140px;
+	font-style: normal;
+	font-weight: 400;
+	
+	
+}
+p {
+	color: #f4df42;
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+	font-style: normal; 
+	font-weight: 100;
+	max-width: 700px;
+	
+	
+}
+ul {
+	color: #f4df42;
+	font-family: 'Roboto', sans-serif;
+	font-size: 15px;
+	font-style: normal;
+	font-weight: 100;
+	
+ }
+li {
+	color: #f4df42;
+	font-family: 'Roboto', sans-serif;
+	font-size: 15px;
+	font-style: normal;
+	font-weight: 100;	 
+}
+img {
+
+}
+#slogan {
+	font-family: 'Roboto', sans-serif;
+	font-size: 50px;
+	font-weight: 100;
+	font-style: normal;
+}
+@media only screen and (max-width: 768px) {
+    width: 100%
+    h1: 90%
+    text-align: center }
+}
+@media only screen and (max-width: 480px) {
+    width: 100%
+    h1: 90%
+    text-align: center }
+}
+@media only screen and (max-width: 320px) {
+    width: 100%
+    h1: 90%
+    text-align: center }
+}
